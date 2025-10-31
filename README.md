@@ -1,6 +1,6 @@
 # Network Security & Scanning — Lab Deliverables
 
-**Author:** Your Name  
+**Author:** Samiksha Ganesh Salunke
 **Date:** 2025-10-31
 
 ## Objective
@@ -17,29 +17,6 @@ Learn reconnaissance, scanning, and network traffic analysis; produce an Nmap sc
 - Nmap Scan Report + OpenVAS Vulnerability Report (in REPORT/)  
 - GitHub Repo with detailed scan analysis (this repo)  
 - 5-min Demo Video showing a scan & findings (place in artifacts/video/)
-
-## Repo Structure
-```
-network-security-scanning-task/
-├─ README.md
-├─ REPORT/
-│  ├─ NMAP_Scan_Report.md
-│  └─ OPENVAS_Vulnerability_Report.md
-├─ scripts/
-│  ├─ run_scans.sh
-│  └─ capture_tcpdump.sh
-├─ cheat-sheets/
-│  └─ network_cheatsheet.md
-├─ video/
-│  └─ walkthrough_script.md
-├─ artifacts/
-│  ├─ screenshots/
-│  ├─ pcap/
-│  └─ video/
-├─ firewall/
-│  └─ iptables_examples.md
-└─ .gitignore
-```
 
 ## How to use
 1. Populate REPORT/ with your nmap and OpenVAS outputs (PDF/MD).  
